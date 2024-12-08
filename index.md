@@ -4,3 +4,5 @@
 for i in range(10):
   ("I'm a computer science student!")
 ```
+- [x] reading machine learning book
+- [ ] learning cybersecurity 101 
